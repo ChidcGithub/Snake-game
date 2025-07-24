@@ -47,11 +47,6 @@
 - Font Awesome提供图标支持
 - 响应式设计适配不同设备
 
-## 截图
-
-![游戏开始界面](https://picsum.photos/id/237/800/600)
-![游戏进行中](https://picsum.photos/id/238/800/600)
-![游戏结束界面](https://picsum.photos/id/239/800/600)
 
 ## 许可证
 
